@@ -1,0 +1,12 @@
+.ipl-loader-svg svg .cls-1, .ipl-loader-svg svg .cls-2 {
+	stroke-linecap:bevel;
+	stroke-linejoin:round;
+}
+.ipl-loader-svg svg .cls-1 {
+	fill:none;
+	stroke-width:2px;
+}
+.ipl-loader-svg svg .cls-2 {
+	fill:none;
+	stroke-width:4px;
+}

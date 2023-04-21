@@ -1,0 +1,8 @@
+.ipl-loader-svg {
+	width:100%;
+	text-align:center;
+	padding:25px;
+}
+.ipl-loader-svg svg {
+	display:inline-block;
+}
